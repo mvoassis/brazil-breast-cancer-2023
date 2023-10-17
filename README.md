@@ -27,7 +27,7 @@ With these data, it is impossible to say that cases have not decreased. However,
 
 The pandemic delayed diagnoses and treatments, affecting the lives of countless women. Information is power, and you can make a difference. Here are more materials if you want to consult:
 
-* [Data and figures on Breast Cancer (INCA) - 2023](https://www.inca.gov.br/sites/ufu.sti.inca.local/files//media/document//relatorio_dados-e- numeros-ca-mama-2023.pdf)
-* [Incidence of breast cancer in Brazil, regions and states](https://www.gov.br/inca/pt-br/assuntos/gestor-e-profissional-de-saude/controle-do-cancer-de -breast/data-and-numbers/incidence)
+* [Data and figures on Breast Cancer (INCA) - 2023](https://www.inca.gov.br/sites/ufu.sti.inca.local/files//media/document//relatorio_dados-e-numeros-ca-mama-2023.pdf)
+* [Incidence of breast cancer in Brazil, regions and states](https://www.gov.br/inca/pt-br/assuntos/gestor-e-profissional-de-saude/controle-do-cancer-de-breast/data-and-numbers/incidence)
 
 The database used in this analysis (filtered to contain only cases of breast cancer) can be accessed [here](https://github.com/mvoassis/brazil-breast-cancer-2023/blob/main/dataset/cancer_mama_12_22.rar).
