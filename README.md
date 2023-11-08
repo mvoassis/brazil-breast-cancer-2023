@@ -12,7 +12,7 @@ The data collected from 2012 to 2022 shows a sharp drop in the period from 2020 
 
 ![Treatment started per year](images/diagnosticos.png)
 
-In addition to the visual analysis, the *hypothesis test* confirms that statistical evidence shows a significant decrease in the number of new treatment initiations during this period. The test was carried out using Student's t-test, as seen in this [Notebook](notebooks/Brazil_Breast_Cancer_Treatment_analysis.ipynb).
+In addition to the visual analysis, the **hypothesis test** confirms that statistical evidence shows a significant decrease in the number of new treatment initiations during this period. The test was carried out using Student's t-test, as seen in this [Notebook](notebooks/Brazil_Breast_Cancer_Treatment_analysis.ipynb).
 
 With these data, it is impossible to say that cases have not decreased. However, given the situation we have been through in the last three years, it is plausible to say this is due to underreporting.
 
@@ -31,7 +31,7 @@ Os dados, coletados de 2012 a 2022, mostram uma queda brusca no período de 2020
 
 ![Tratamentos iniciados por ano](images/diagnosticos.png)
 
-Além da análise visual, o *teste de hipótese* realizado confirma que há evidências estatísticas para afirmar que houve diminuição significativa no número de novos inícios de tratamento nesse período. A teste foi feito usando teste t de Student, e pode ser conferido nesse [Notebook](notebooks/Brazil_Breast_Cancer_Treatment_analysis.ipynb).
+Além da análise visual, o **teste de hipótese** realizado confirma que há evidências estatísticas para afirmar que houve diminuição significativa no número de novos inícios de tratamento nesse período. A teste foi feito usando teste t de Student, e pode ser conferido nesse [Notebook](notebooks/Brazil_Breast_Cancer_Treatment_analysis.ipynb).
 
 Com esses dados, não dá pra afirmar que os casos não diminuíram. Mas, dada a situação que passamos nesses últimos 3 anos, é plausível afirmar que se trata de uma subnotificação. 
 
