@@ -1,6 +1,6 @@
 # Summary / Resumo
-Linkedin Post: [Access here (en | pt-br)](https://www.linkedin.com/feed/update/urn:li:activity:7122612450771804161/)
-Instagram Post: [Acesse aqui (pt-br)](https://www.instagram.com/p/Cyjm9TIrR8L/?igshid=c3dpbXgzMzZqcGdy) 
+* Linkedin Post: [Access here (en | pt-br)](https://www.linkedin.com/feed/update/urn:li:activity:7122612450771804161/)
+* Instagram Post: [Acesse aqui (pt-br)](https://www.instagram.com/p/Cyjm9TIrR8L/?igshid=c3dpbXgzMzZqcGdy) 
 
 > Project developed using: Python, Numpy, Pandas, Matplotlib, and Scipy.
 
